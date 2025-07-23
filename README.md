@@ -24,7 +24,7 @@ pip install pandas matplotlib seaborn folium numpy
 🚀 Como Rodar
 Clone este repositório:
 
-git clone https://github.com/alexandregv22/alura-store-br.git
+git clone https://github.com/alexandregv22/Alura_Store
 Abra o notebook AluraStoreBr.ipynb
 
 Execute todas as células para visualizar os gráficos e relatório final
